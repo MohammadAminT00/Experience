@@ -1,9 +1,9 @@
-طراحی رابط کاربری اپلیکیشن تعمیرگاه
+Auto Repair Shop Application – UI Design
 
-طراحی و پیاده‌سازی رابط کاربری ۹ صفحه از اپلیکیشن مدیریت تعمیرگاه با استفاده از Kotlin و XML.
+Designed and implemented the user interface for 9 screens of an auto repair shop management application using Kotlin and XML.
 
-ایجاد تجربه کاربری ساده و تعاملی برای ورود اطلاعات مشتریان شامل شماره تلفن و شماره پلاک خودرو.
+Created a simple and interactive user experience for entering customer information, including phone numbers and vehicle license plates.
 
-طراحی نمایش مصرف قطعات خودرو و زمان تعویض یا بررسی آن‌ها به تعمیرگاه، با تمرکز بر شفافیت و دسترسی آسان به اطلاعات.
+Designed visual components to display car part usage and indicate recommended replacement or inspection times, with a strong focus on clarity and easy access to information for repair shop staff.
 
-تمرکز بر ظاهر حرفه‌ای، ساختار منطقی صفحات و نمایش داده‌ها به شکل کاربردی برای کاربران تعمیرگاه.
+Emphasized a professional visual appearance, logical screen structure, and practical data presentation tailored to the needs of auto repair shop users.
