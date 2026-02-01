@@ -1,17 +1,17 @@
-پروژه اپلیکیشن مسیر‌یابی مترو تهران
+Tehran Metro Navigation Application Project
 
-طراحی و توسعه یک اپلیکیشن اندروید با استفاده از Java و XML برای ارائه تجربه مسیر‌یابی کامل در شهر.
+Designed and developed an Android application using Java and XML to provide a comprehensive urban navigation experience.
 
-ارائه نزدیک‌ترین ایستگاه مترو به کاربر بر اساس موقعیت فعلی.
+Identified and displayed the nearest metro station based on the user’s current location.
 
-نمایش فاصله ایستگاه‌های مترو تا ۲۵۰۰ متر و ارائه اطلاعات مرتبط با آن‌ها.
+Showed metro stations within a 2,500-meter radius, along with relevant distance and station details.
 
-ارائه امکانات و خدمات مهم هر ایستگاه مترو جهت اطلاع کاربران.
+Provided key facilities and services available at each metro station to better inform users.
 
-نمایش نقشه کامل مترو با موقعیت دقیق ایستگاه‌ها روی نقشه.
+Displayed the complete metro map with precise station locations integrated into the map view.
 
-مسیر‌یابی کامل از موقعیت کاربر تا ایستگاه مورد نظر.
+Implemented full route navigation from the user’s location to the selected metro station.
 
-ارائه اطلاعات خط‌های اتوبوس و تاکسی مرتبط با هر ایستگاه مترو.
+Presented information about related bus and taxi lines connected to each metro station.
 
-این پروژه تجربه‌ای جامع و کاربردی برای مسافران شهری فراهم می‌کند
+This project delivers a practical and comprehensive solution for urban commuters.
