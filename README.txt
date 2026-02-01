@@ -1,17 +1,25 @@
-مهارت‌ها و تجربیات فنی:
+Technical Skills and Experience:
 
-معماری و الگوها: تسلط بر MVVM و Clean Architecture برای طراحی و توسعه اپلیکیشن‌های قابل نگهداری و مقیاس‌پذیر.
+Architecture & Design Patterns:
+Strong proficiency in MVVM and Clean Architecture for designing and developing maintainable and scalable applications.
 
-مدیریت وضعیت و جریان داده: تجربه کامل در استفاده از BLoC، Flow و Route برای مدیریت وضعیت اپلیکیشن، جریان داده‌های واکنشی و مسیریابی.
+State Management & Data Flow:
+Extensive experience using BLoC, Flow, and Navigation (Route) to manage application state, reactive data streams, and app routing.
 
-همزمانی و پردازش غیرهمزمان: تجربه‌ی عملی در استفاده از Kotlin Coroutines برای مدیریت عملیات غیرهمزمان، بهینه‌سازی Threadها، جلوگیری از بلاک شدن UI، و پیاده‌سازی ساختارهای async/await به‌همراه Flow برای داده‌های Reactive.
+Concurrency & Asynchronous Processing:
+Hands-on experience with Kotlin Coroutines for handling asynchronous operations, optimizing thread usage, preventing UI blocking, and implementing async/await patterns alongside Flow for reactive data handling.
 
-پایگاه داده: پیاده‌سازی و مدیریت داده‌ها با Room و SQLite برای ذخیره‌سازی محلی اطلاعات، همراه با پشتیبانی از Coroutines و Flow.
+Database Management:
+Implementation and management of local data storage using Room and SQLite, with full support for Coroutines and Flow.
 
-فریم‌ورک‌ها و زبان‌ها: توسعه با Jetpack Compose، Flutter، Java XML و Kotlin.
+Frameworks & Languages:
+Application development using Jetpack Compose, Flutter, Java (XML-based UI), and Kotlin.
 
-ابزارها و عملکرد: استفاده از Profiler برای بررسی و بهینه‌سازی عملکرد اپلیکیشن و Cursor برای تولید کد با کیفیت و خوانا.
+Tools & Performance Optimization:
+Utilization of Android Profiler for performance analysis and optimization, and Cursor for generating clean, high-quality, and readable code.
 
-تست و تضمین کیفیت: تجربه در Android Testing برای اطمینان از عملکرد صحیح، پایدار و قابل اطمینان اپلیکیشن‌ها.
+Testing & Quality Assurance:
+Experience with Android Testing to ensure application correctness, stability, and reliability.
 
-کار با API: تجربه کامل در توسعه و مصرف APIها با Retrofit برای ارتباط اپلیکیشن با سرور، مدیریت داده‌های شبکه و پیاده‌سازی درخواست‌های غیرهمزمان با Coroutines.
+API Integration:
+Extensive experience in developing and consuming APIs using Retrofit, handling network data, and implementing asynchronous network requests with Coroutines.
