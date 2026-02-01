@@ -1,11 +1,11 @@
-اپلیکیشن تعمیرگاه (Jetpack Compose)
+Auto Repair Shop Application (Jetpack Compose)
 
-ریسپانسیو کردن کامل رابط کاربری اپلیکیشن برای انواع گوشی‌ها بر اساس طراحی تحویلی با استفاده از Jetpack Compose.
+Fully implemented a responsive user interface for various Android devices based on the provided design, using Jetpack Compose.
 
-راهنمایی توسعه‌دهنده اصلی در حل مشکلات و اصلاح بخش‌های پروژه؛ شناسایی ایرادات و ارائه روش‌های مناسب برای رفع آن‌ها.
+Assisted the lead developer in resolving issues and refining different parts of the project by identifying problems and proposing effective solutions.
 
-بررسی و تست منطق پروژه جهت اطمینان از عملکرد صحیح اپلیکیشن در بخش‌های ورود مشتری، تأیید/رد مشتری و مدیریت لیست مشتریان.
+Reviewed and tested the application logic to ensure correct behavior in customer onboarding, customer approval/rejection, and customer list management features.
 
-مسئولیت شامل کدنویسی UI، ریسپانسیو کردن صفحات، تست عملکرد منطقی و ارائه راهنمایی‌های فنی به توسعه‌دهنده تیم بود.
+Responsibilities included UI development, responsive layout implementation, logic testing, and providing technical guidance to the team’s developer.
 
-این تجربه نشان‌دهنده توانایی من در حل مسئله، هدایت تیم توسعه، بهینه‌سازی رابط کاربری و اعتبارسنجی منطق عملکرد اپلیکیشن است.
+This experience highlights my strengths in problem-solving, technical mentorship, UI optimization, and validating application business logic.
