@@ -1,13 +1,13 @@
-سامانه مدیریت تعمیرگاه (Kotlin/XML)
+Auto Repair Shop Management System (Kotlin / XML)
 
-پیاده‌سازی کامل بخش مدیریت قطعات خودرو: نمایش وضعیت مصرف قطعات بر اساس کیلومتر طی شده، مدیریت ترخیص خودرو و انبارداری.
+Fully implemented the car parts management module, including tracking part usage based on driven mileage, vehicle checkout processing, and inventory management.
 
-طراحی و توسعه بخش حسابداری شامل مرجوعی کالا، صدور فاکتور کامل پس از ترخیص مشتری و محاسبه فاکتور بر اساس قطعات موجود در انبار و خرید شده.
+Designed and developed the accounting module, covering product returns, generation of detailed invoices upon customer checkout, and invoice calculations based on both in-stock and purchased parts.
 
-پیاده‌سازی قابلیت پرینت فاکتور کامل و زیبا روی برگه A5.
+Implemented high-quality invoice printing on A5 paper with a clean and professional layout.
 
-توسعه بخش کیف پول برای مدیریت پرداخت‌ها و تسویه حساب مشتریان.
+Developed a wallet system to manage customer payments and settlements.
 
-مسئولیت من شامل تمامی عملیات مرتبط با قطعات خودرو، ترخیص، انبارداری، حسابداری، فاکتور و کیف پول بود، در حالی که بخش مشتریان و پیام‌ها توسط همکارم پیاده‌سازی شد.
+My responsibilities covered all operations related to car parts, vehicle checkout, inventory, accounting, invoicing, and the wallet system, while customer management and messaging features were implemented by a teammate.
 
-این پروژه نشان‌دهنده توانایی من در پیاده‌سازی سیستم‌های مدیریت پیچیده، حسابداری داخلی، نمایش داده‌های فنی خودرو و ارائه تجربه کاربری کامل در اپلیکیشن‌های اندروید است.
+This project demonstrates my ability to design and implement complex management systems, internal accounting logic, technical vehicle data visualization, and a complete end-to-end user experience in Android applications.
