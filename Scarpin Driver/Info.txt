@@ -1,5 +1,7 @@
-طراحی رابط کاربری اپلیکیشن مدیریت خودرو
+Car Management Application – UI Design Project
 
-طراحی کامل بخش رابط کاربری (UI) پنج صفحه از یک اپلیکیشن اندروید با استفاده از Kotlin و XML.
+Designed the complete user interface (UI) for five screens of an Android application using Kotlin and XML.
 
-پیاده‌سازی نمایش درصد مصرف قطعات خودرو به رانندگان بر اساس میزان کیلومتر طی شده، با استفاده از انیمیشن‌های بصری
+Implemented visual animations to display car component usage percentages for drivers based on the distance traveled.
+
+This project primarily focused on UI design and user experience implementation.
