@@ -1,11 +1,11 @@
-Flutter – پروژه اپلیکیشن آموزش زبان
+Flutter – Language Learning Application Project
 
-همکاری با تیم در طراحی و توسعه یک اپلیکیشن آموزش زبان با Flutter.
+Collaborated with the team to design and develop a language learning application using Flutter.
 
-آموزش زبان توسط مقالات و فلش‌کارت‌ها به صورت صوتی و تصویری برای تجربه تعاملی و جذاب کاربران.
+Delivered language learning content through articles and flashcards with audio and visual support to create an interactive and engaging user experience.
 
-نمایش درصد پیشرفت کاربر و ارائه گزارش از کلماتی که یاد گرفته و نیاز به تمرین بیشتر دارند بر اساس عملکرد در آزمون‌ها و فلش‌کارت‌ها.
+Implemented user progress tracking, displaying completion percentages and detailed reports on learned words and those requiring further practice based on quiz and flashcard performance.
 
-پیاده‌سازی سیستم آزمون و ارزیابی پاسخ‌ها برای یادگیری بهینه و شخصی‌سازی تمرین‌ها.
+Designed and developed a testing and assessment system to evaluate user responses, optimize learning outcomes, and personalize practice sessions.
 
-طراحی و توسعه کامل سیستم لاگین و پروفایل کاربری با امکان مدیریت اطلاعات شخصی و پیشرفت آموزشی.
+Fully designed and implemented the login and user profile system, enabling management of personal information and tracking educational progress.
